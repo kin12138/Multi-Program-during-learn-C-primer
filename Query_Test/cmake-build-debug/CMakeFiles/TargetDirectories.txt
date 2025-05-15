@@ -1,0 +1,3 @@
+E:/WorkSpace/Employment/CppStudyProject/Query_Test/cmake-build-debug/CMakeFiles/Query_Test.dir
+E:/WorkSpace/Employment/CppStudyProject/Query_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/WorkSpace/Employment/CppStudyProject/Query_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

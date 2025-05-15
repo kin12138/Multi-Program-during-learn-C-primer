@@ -1,0 +1,10 @@
+# ninja log v5
+808	3192	7686395261119611	CMakeFiles/Query_Test.dir/QueryResult.cpp.obj	235b39e93d920e8f
+22	1119	7686442706344037	CMakeFiles/Query_Test.dir/AndQuery.cpp.obj	cd943dc068f2a3d1
+3	970	7686442704861259	CMakeFiles/Query_Test.dir/main.cpp.obj	120f0b5fd8976d76
+88	1105	7686442706218898	CMakeFiles/Query_Test.dir/OrQuery.cpp.obj	e6a246ba54446577
+70	989	7686439494380497	CMakeFiles/Query_Test.dir/WordQuery.cpp.obj	313c239d9965947e
+829	3244	7686395261750940	CMakeFiles/Query_Test.dir/TextQuery.cpp.obj	18c575f58c58eef8
+39	905	7686442704209633	CMakeFiles/Query_Test.dir/Query.cpp.obj	879aa0a6997bf1af
+61	1089	7686442706057725	CMakeFiles/Query_Test.dir/NotQuery.cpp.obj	956145156c76d08b
+1119	1405	7686442709160606	Query_Test.exe	76de037d521bcd60

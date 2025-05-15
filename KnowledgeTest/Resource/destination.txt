@@ -1,0 +1,4 @@
+May I write something into this file?
+\n Now, I wrote the second word.
+This is the third word.
+There are 19 words in this file.

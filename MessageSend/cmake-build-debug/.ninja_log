@@ -1,0 +1,8 @@
+# ninja log v5
+59	586	7688161990087864	CMakeFiles/MessageSend.dir/EmailSender.cpp.obj	11a709c2e022748c
+3	525	7688161989475059	CMakeFiles/MessageSend.dir/SmsSender.cpp.obj	3c0d2cc501b6084e
+38	694	7688161991177904	CMakeFiles/MessageSend.dir/NotificationService.cpp.obj	92f798983576f11d
+3	581	7688172568473333	CMakeFiles/MessageSend.dir/main.cpp.obj	46655ffd7b82be7b
+1	240	7688173100063366	build.ninja	5e47cfdd7908a2d1
+582	744	7688172570055139	MessageSend.exe	d2e8e5a81645ef83
+1	227	7688173100063366	build.ninja	5e47cfdd7908a2d1

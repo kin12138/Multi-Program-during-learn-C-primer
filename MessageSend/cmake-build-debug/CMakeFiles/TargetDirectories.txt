@@ -1,0 +1,3 @@
+E:/WorkSpace/Employment/CppStudyProject/MessageSend/cmake-build-debug/CMakeFiles/MessageSend.dir
+E:/WorkSpace/Employment/CppStudyProject/MessageSend/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/WorkSpace/Employment/CppStudyProject/MessageSend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
