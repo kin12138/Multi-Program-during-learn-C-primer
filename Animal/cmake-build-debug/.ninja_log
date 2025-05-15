@@ -1,0 +1,8 @@
+# ninja log v5
+0	422	7689802403788896	CMakeFiles/Animal.dir/main.cpp.obj	531c770e31d8a73e
+433	580	7689802405321737	Animal.exe	52525fae6d864eec
+39	1062	7689899988282228	CMakeFiles/Animal.dir/Cat.cpp.obj	92254a60fc09d266
+57	1068	7689899988332174	CMakeFiles/Animal.dir/AnimalAdapter.cpp.obj	532c87fcf5855c2
+20	1070	7689899988332174	CMakeFiles/Animal.dir/Dog.cpp.obj	beaad5b8f7c64ff1
+3	1103	7689899988702134	CMakeFiles/Animal.dir/main.cpp.obj	531c770e31d8a73e
+1103	1650	7689899994133310	Animal.exe	2e4fa4abbf77d9c8
