@@ -1,0 +1,60 @@
+ [INFO] [4]worker 2, count 0
+ [INFO] [3]worker 1, count 0
+ [INFO] [3]worker 1, count 1
+ [INFO] [4]worker 2, count 1
+ [INFO] [4]worker 2, count 2
+ [INFO] [3]worker 1, count 2
+ [INFO] [3]worker 1, count 3
+ [INFO] [4]worker 2, count 3
+ [INFO] [4]worker 2, count 4
+ [INFO] [3]worker 1, count 4
+ [INFO] [3]worker 1, count 5
+ [INFO] [4]worker 2, count 5
+ [INFO] [4]worker 2, count 6
+ [INFO] [3]worker 1, count 6
+ [INFO] [4]worker 2, count 7
+ [INFO] [3]worker 1, count 7
+ [INFO] [3]worker 1, count 8
+ [INFO] [4]worker 2, count 8
+ [INFO] [4]worker 2, count 9
+ [INFO] [3]worker 1, count 9
+ [INFO] [3]worker 1, count 0
+ [INFO] [4]worker 2, count 0
+ [INFO] [3]worker 1, count 1
+ [INFO] [4]worker 2, count 1
+ [INFO] [3]worker 1, count 2
+ [INFO] [4]worker 2, count 2
+ [INFO] [3]worker 1, count 3
+ [INFO] [4]worker 2, count 3
+ [INFO] [4]worker 2, count 4
+ [INFO] [3]worker 1, count 4
+ [INFO] [3]worker 1, count 5
+ [INFO] [4]worker 2, count 5
+ [INFO] [3]worker 1, count 6
+ [INFO] [4]worker 2, count 6
+ [INFO] [4]worker 2, count 7
+ [INFO] [3]worker 1, count 7
+ [INFO] [3]worker 1, count 8
+ [INFO] [4]worker 2, count 8
+ [INFO] [3]worker 1, count 9
+ [INFO] [4]worker 2, count 9
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 0
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 0
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 1
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 1
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 2
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 2
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 3
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 3
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 4
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 4
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 5
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 5
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 6
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 6
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 7
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 7
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 8
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 8
+2025-06-20 11-50-09 [INFO] [3]worker 1, count 9
+2025-06-20 11-50-09 [INFO] [4]worker 2, count 9

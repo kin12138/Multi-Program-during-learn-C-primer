@@ -1,0 +1,6 @@
+# ninja log v5
+22	1263	7719606406307547	CMakeFiles/ThreadPool.dir/ThreadPool.cpp.obj	7bcd74ac3d30b96d
+4	1460	7719613548964805	CMakeFiles/ThreadPool.dir/main.cpp.obj	2b75f21a3f90cd2e
+26	581	7719495316694321	CMakeFiles/ThreadPool.dir/ThreadSafeQueue.cpp.obj	1af8a93d7a56d3e6
+1461	1762	7719613551964779	ThreadPool.exe	551e6ad5f5e35f2f
+1	400	7721062466820726	build.ninja	4e4d185ea7ebe682

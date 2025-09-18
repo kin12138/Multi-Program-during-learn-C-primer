@@ -8,6 +8,7 @@
 #include "CopyControl.h"
 #include "OverloadOperator.h"
 #include "ObjectOriented.h"
+#include "TemplatePrograming.h"
 
 int main() {
     system("chcp 65001");
@@ -22,7 +23,7 @@ int main() {
 //    return 0;
 //    testMyScreen();
 
-    _15_30();
+    _16_4();
     return 0;
 }
 

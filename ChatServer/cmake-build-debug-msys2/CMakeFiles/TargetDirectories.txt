@@ -1,0 +1,3 @@
+E:/WorkSpace/Employment/CppStudyProject/ChatServer/cmake-build-debug-msys2/CMakeFiles/ChatServer.dir
+E:/WorkSpace/Employment/CppStudyProject/ChatServer/cmake-build-debug-msys2/CMakeFiles/edit_cache.dir
+E:/WorkSpace/Employment/CppStudyProject/ChatServer/cmake-build-debug-msys2/CMakeFiles/rebuild_cache.dir

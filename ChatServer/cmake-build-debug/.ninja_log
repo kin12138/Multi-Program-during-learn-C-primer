@@ -1,0 +1,6 @@
+# ninja log v5
+0	2495	7723472292323977	CMakeFiles/ChatServer.dir/main.cpp.obj	b0b4f1a651a4c569
+19	2612	7723472293484041	CMakeFiles/ChatServer.dir/Session.cpp.obj	5146a845ed445fa1
+44	2704	7723472294394152	CMakeFiles/ChatServer.dir/Dispatcher.cpp.obj	6a696152bc936d56
+70	2792	7723472295273062	CMakeFiles/ChatServer.dir/Server.cpp.obj	dbadc07549074848
+2792	3039	7723472297715036	ChatServer.exe	7553260f7dea7d2

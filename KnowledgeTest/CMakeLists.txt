@@ -55,4 +55,17 @@ add_executable(KnowledgeTest main.cpp
         Disc_quote.cpp
         Disc_quote.h
         Basket.cpp
-        Basket.h)
+        Basket.h
+        TemplatePrograming.h
+        Blob.cpp
+        Blob.h
+        BlobPtr.cpp
+        BlobPtr.h
+        Vec.cpp
+        Vec.h
+        DebugDelete.h
+        SharedPointer.cpp
+        SharedPointer.h
+        Delete.h
+        UniquePointer.cpp
+        UniquePointer.h)

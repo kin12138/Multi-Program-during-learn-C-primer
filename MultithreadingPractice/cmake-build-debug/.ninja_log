@@ -1,0 +1,10 @@
+# ninja log v5
+23	1293	7709650104918243	CMakeFiles/MultithreadingPractice.dir/main.cpp.obj	8ef4119b5213cd2b
+3198	4818	7712625443589700	MultithreadingPractice.exe	af05bd0e61fc8fc1
+3	3197	7712625427443636	CMakeFiles/MultithreadingPractice.dir/TaskQueue.cpp.obj	9eeeb3af053bb5c7
+23	636	7721276452650798	CMakeFiles/MultithreadingPractice.dir/ThreadSafe_Stack.cpp.obj	609ade673366e23c
+45	676	7721276453057857	CMakeFiles/MultithreadingPractice.dir/threadsafe_queue.cpp.obj	afbb02d3faf32440
+3	2227	7721277370026934	CMakeFiles/MultithreadingPractice.dir/main.cpp.obj	8ef4119b5213cd2b
+2228	2828	7721277376023362	MultithreadingPractice.exe	98f54c773a00014f
+3	2207	7721282392978349	CMakeFiles/MultithreadingPractice.dir/main.cpp.obj	8ef4119b5213cd2b
+2208	2788	7721282398780048	MultithreadingPractice.exe	98f54c773a00014f

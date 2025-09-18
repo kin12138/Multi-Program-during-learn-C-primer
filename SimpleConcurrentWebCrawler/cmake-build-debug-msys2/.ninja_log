@@ -1,0 +1,9 @@
+# ninja log v6
+6	1737	7721189472281408	CMakeFiles/SimpleConcurrentWebCrawler.dir/main.cpp.obj	334c1a207b5e51b5
+41	2226	7721189472622311	CMakeFiles/SimpleConcurrentWebCrawler.dir/Fetcher.cpp.obj	b42d90653591ad8d
+61	4438	7721189472823293	CMakeFiles/SimpleConcurrentWebCrawler.dir/Parser.cpp.obj	5486e1acf339c3b3
+11	1674	7721189985970110	CMakeFiles/SimpleConcurrentWebCrawler.dir/main.cpp.obj	334c1a207b5e51b5
+28	2450	7721189986136758	CMakeFiles/SimpleConcurrentWebCrawler.dir/CrawlerController.cpp.obj	51ba2d5f27cceef6
+14	1836	7721195593090252	CMakeFiles/SimpleConcurrentWebCrawler.dir/main.cpp.obj	334c1a207b5e51b5
+41	2482	7721195593351221	CMakeFiles/SimpleConcurrentWebCrawler.dir/CrawlerController.cpp.obj	51ba2d5f27cceef6
+2482	2827	7721195617767076	SimpleConcurrentWebCrawler.exe	d39bd91b75e75565

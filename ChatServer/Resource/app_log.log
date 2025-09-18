@@ -1,0 +1,10 @@
+2025-06-23 17:35:20 [INFO] [1] Server starting on port 23
+2025-06-23 17:35:20 [INFO] [1] bind/listen...
+2025-06-23 17:35:25 [INFO] [1] New connection from 127.0.0.1:62795
+2025-06-23 17:35:28 [INFO] [1] New connection from 127.0.0.1:62800
+2025-06-23 17:35:30 [DEBUG] [3] Received from [292]: 1
+2025-06-23 17:35:30 [DEBUG] [6] Sent to [328]: 1
+2025-06-23 17:35:30 [DEBUG] [3] Received from [292]: 2
+2025-06-23 17:35:30 [DEBUG] [6] Sent to [328]: 2
+2025-06-23 17:35:30 [DEBUG] [3] Received from [292]: 3
+2025-06-23 17:35:30 [DEBUG] [6] Sent to [328]: 3
